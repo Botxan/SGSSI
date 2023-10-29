@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "string": "c",
+        "istream": "c",
+        "streambuf": "c",
+        "array": "c",
+        "string_view": "c",
+        "span": "c",
+        "sha.h": "c",
+        "sstream": "c",
+        "chrono": "c",
+        "variant": "c",
+        "omp.h": "c",
+        "math.h": "c",
+        "limits.h": "c",
+        "vector": "c",
+        "memory": "c",
+        "optional": "c",
+        "system_error": "c",
+        "typeindex": "c",
+        "cstddef": "c",
+        "cmath": "c",
+        "sha256.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
